@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="app_title">Welcome Back</string>
+    <string name="btntxt_login">Login</string>
+
+
+
+</resources>
